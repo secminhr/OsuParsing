@@ -1,0 +1,3 @@
+protocol DetailObject {
+	//left empty
+}
